@@ -1,2 +1,2 @@
 # bolaodoimpeachment.com
-site bolaodoimpeachment.com.br
+site: bolaodoimpeachment.com.br
